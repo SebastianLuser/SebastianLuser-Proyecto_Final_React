@@ -12,7 +12,7 @@ const Footer = () => {
                     <hr />
                     <div className="row">
                         <div className="col-md-6">
-                            <p>TM © 2022 Sebas Corporation. Todos los derechos reservados.</p>
+                            <p>TM © 2022 Sebas Corporation.All rights reserved.</p>
                         </div>
                         <div className="col-md-6 text-end">
                             <img src={facebook} width="24" alt="facebook" /> 
